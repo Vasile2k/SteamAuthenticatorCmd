@@ -1,4 +1,4 @@
-# SteamDesktopAuthenticatorCmd
+# SteamAuthenticatorCmd
 Steam authenticator that can be used from command line
 
 ## Usage
