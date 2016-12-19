@@ -16,6 +16,8 @@
 // specific language governing permissions and limitations
 // under the License.
 
+// Made by Vasile2k. See LICENSE
+
 using System;
 using SteamAuth;
 using Newtonsoft.Json;
