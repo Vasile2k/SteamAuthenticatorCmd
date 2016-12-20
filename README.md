@@ -18,4 +18,4 @@ You can find me [here](https://github.com/Vasile2k).
 
 
 ### An inspirational quote
-*“Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live”* - John F. Woods, 1991
+*“Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live”* - [John F. Woods, 1991](https://groups.google.com/forum/#!msg/comp.lang.c++/rYCO5yn4lXw/oITtSkZOtoUJ)
