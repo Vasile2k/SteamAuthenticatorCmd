@@ -2,7 +2,7 @@
 Steam authenticator that can be used from command line
 
 ## Usage
-To use it simply add a `maFiles` folder with your accounts in the same directory with the application and run it like `SteamAuthenticatorCmd.exe -getAuthCode -account yourSteamIdHere`. Very useful if you have bots and you want to do some bad things.
+To use it simply add a `maFiles` folder with your accounts in the same directory with the application and run it like `SteamAuthenticatorCmd.exe -getAuthCode -account yourSteamIdHere`. Very useful if you have bots and you want to do some bad things(don't do bad things).
 
 ## License
 * This thing is distributed under [Apache 2.0 license](LICENSE)
